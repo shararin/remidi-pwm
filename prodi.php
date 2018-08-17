@@ -105,7 +105,7 @@ a:active {
 					<div style="text-align:center; background: orange;">
 						.:: MENU ::.
 					</div>
-					<a href="home.php">Beranda</a> <br/>
+					<a href="index.php">Beranda</a> <br/>
 					<a href="prodi.php">Info Prodi/Jurusan</a> <br/>
 					<a href="infodaftar.php">Info Pendaftaran</a> <br/>
 					<a href="syarat.php">Syarat dan Jalur</a> <br/>
